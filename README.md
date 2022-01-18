@@ -4,6 +4,56 @@
 <h1 align="center">Hi 👋, I'm Joaquín Weiss</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
+<hr>
+
+<h2 align="center">This is my personal portfolio</h2>
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
+  - [About me](#about-me)
+
+## Overview
+
+### The challenge
+
+-Build a page from scratch to show my projects, experience and studies.
+
+### Links
+
+- URL: [Github live page for my portfolio]()
+- URL: [Joaco´s porfolio](https://osteoteam.000webhostapp.com/)
+
+
+## My process
+
+### Built with
+
+- HTML5 markup
+- CSS custom properties
+- Mobile-first workflow
+
+
+### What I learned
+
+Everything you can see on it
+
+## Author
+
+- Website - [Joaquín Weiss](https://github.com/JoacoCW)
+- Frontend Mentor - [@JoacoCW](https://www.frontendmentor.io/profile/JoacoCW)
+- Twitter - [@joaquincweiss](https://twitter.com/joaquincweiss)
+- LinkedIn - [Joaquín Weiss](https://www.linkedin.com/in/joaquin-weiss-b3620076/)
+
+
+###About me
+
 - 🔭 I’m currently working on [Lenovo US/CA](https://www.lenovo.com/us/en/pc/)
 
 - 🌱 I’m currently learning **React**
