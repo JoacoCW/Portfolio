@@ -1,6 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=joacocw&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs" />
 
-
 <h1 align="center">Hi 👋, I'm Joaquín Weiss</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
@@ -27,18 +26,18 @@
 
 ### Links
 
-- URL: [Github live page for my portfolio]()
-- URL: [Joaco´s porfolio](https://osteoteam.000webhostapp.com/)
-
+- URL: [Github live page for my portfolio](https://joacocw.github.io/Portfolio/)
+- URL: [Joaco´s porfolio](https://joacocw.github.io/Portfolio/)
 
 ## My process
+
+I started with the idea and got help from a US/UI designer in order to take it to a wireframe. After that i worked on the structure and styled it.
 
 ### Built with
 
 - HTML5 markup
 - CSS custom properties
 - Mobile-first workflow
-
 
 ### What I learned
 
@@ -51,8 +50,7 @@ Everything you can see on it
 - Twitter - [@joaquincweiss](https://twitter.com/joaquincweiss)
 - LinkedIn - [Joaquín Weiss](https://www.linkedin.com/in/joaquin-weiss-b3620076/)
 
-
-###About me
+### About me
 
 - 🔭 I’m currently working on [Lenovo US/CA](https://www.lenovo.com/us/en/pc/)
 
